@@ -10,6 +10,6 @@
   1.以上请在小写输入下操作  
   2.因逻辑原因，请在切换模式时，确保白子落棋
 # 代码解释
-  见
+  见https://github.com/AndPuqing/GoBang/blob/master/%E5%BC%80%E5%8F%91%E6%97%A5%E8%AE%B0.md
 # 感谢
   欢迎各位提出建议和反馈
